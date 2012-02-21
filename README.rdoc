@@ -1,3 +1,1 @@
-= sync1
-
-Description goes here
+Plugin made for synchronazing issues and wiki on Redmine. Still not working.
